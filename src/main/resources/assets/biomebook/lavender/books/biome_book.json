@@ -1,0 +1,11 @@
+{
+  "display_completion": true,
+  "texture": "lavender:textures/gui/brown_book.png",
+  "new_entries_toast": {
+    "icon_stack": "biomebook:biome_book",
+    "book_name": "Biome Book"
+  },
+  "macros": {
+    "@next-page": "{gray}*⟳ %{text.biomebook.biome_book.next_page}%*{}\n\n;;;;;"
+  }
+}

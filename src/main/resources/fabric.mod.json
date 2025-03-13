@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "biomebook",
+	"version": "${version}",
+	"name": "Biome Book",
+	"description": "Biome Book adds a configurable biome book to minecraft that is compatible with other mods.",
+	"authors": [
+		"Mildzz"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/biomebook/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"dev.mildzz.biomebook.BiomeBook"
+		],
+		"fabric-datagen": [
+			"dev.mildzz.biomebook.BiomeBookDataGenerator"
+		],
+		"client": [
+			"dev.mildzz.biomebook.BiomeBookClient"
+		]
+	},
+	"mixins": [
+		"biomebook.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

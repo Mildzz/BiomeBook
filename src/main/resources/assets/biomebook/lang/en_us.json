@@ -1,0 +1,17 @@
+{
+  "text.biomebook.entry.biomebook": { "text": "biome book", "color": "#466D1D", "font": "minecraft:default" },
+  "text.biomebook.entry.homepage": [
+    { "text": "Welcome to the ", "font": "minecraft:default" },
+    { "translate":  "text.biomebook.entry.biomebook" },
+    { "text": "! Here you will find all the biomes you have visited so far.", "font": "minecraft:default" }
+  ],
+
+  "text.biomebook.category.overworld": { "text": "This is the overworld category containing all overworld biomes.", "font": "minecraft:default" },
+  "text.biomebook.category.nether": { "text": "This is the nether category containing all nether biomes.", "font": "minecraft:default" },
+  "text.biomebook.category.end": { "text": "This is the end category containing all end biomes.", "font": "minecraft:default" },
+
+  "text.biomebook.biome_book.next_page": "Continued on next page...",
+  "item.biomebook.biome_book": { "text": "Biome Book", "color": "#466D1D", "font": "minecraft:default" },
+
+  "text.config.default-config.option.isProgressModeOn": "Progression Mode"
+}
