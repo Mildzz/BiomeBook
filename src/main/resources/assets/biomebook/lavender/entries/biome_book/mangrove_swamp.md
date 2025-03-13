@@ -9,7 +9,7 @@
 }
 ```
 
-The second-best biome!\
+A biome characterized by a dense foliage, featuring plenty of mangrove trees of varying heights. The floor is mainly composed of mud blocks with occasional grass patches.\
 **Wood**: Mangrove
 
 ;;;;;

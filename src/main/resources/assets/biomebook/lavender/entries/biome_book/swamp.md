@@ -9,7 +9,7 @@
 }
 ```
 
-The best biome!\
+The swamp biome is a waterlogged area consisting of many small islands separated by canals of murky brown water, with discolored grass and oak trees covered in vines.\
 **Wood**: Oak
 
 ;;;;;
